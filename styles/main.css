@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: Sofia, sans-serif;
+}
+
+.navbar {
+    background-color: dodgerblue;
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color:darkorange;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.navbar a:hover {
+    background-color: darkorange;
+    color: dodgerblue;
+}
