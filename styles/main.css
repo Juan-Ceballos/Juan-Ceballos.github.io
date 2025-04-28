@@ -26,6 +26,10 @@ body {
     color: dodgerblue;
 }
 
+.overview {
+    text-align: center;
+}
+
 @media screen and (max-width: 600px) {
     .navbar a {
         float: none;
