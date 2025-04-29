@@ -30,6 +30,28 @@ body {
     text-align: center;
 }
 
+.profile-wrapper {
+    display: flex;
+    width: 20%;
+    margin: 0 auto;
+}
+
+.navbar-ext {
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar-ext a {
+    font-size: 33px;
+    display: flex;
+    color: darkorange;
+    padding-bottom: 20px;
+}
+
+.about {
+    text-align: center;
+}
+
 @media screen and (max-width: 600px) {
     .navbar a {
         float: none;
