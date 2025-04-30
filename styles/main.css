@@ -52,6 +52,50 @@ body {
     text-align: center;
 }
 
+.iOS {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.iOS-links {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.iOS-links a {
+    padding: 11px;
+}
+
+.web {
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    margin: 0 auto; 
+}
+
+.web-links {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.web-links a {
+    padding: 11px; 
+}
+
+.skills {
+    width: 33%;
+    margin: 0 auto;
+}
+
+.contacts {
+    width: 33%;
+    margin: 0 auto;
+}
+
 @media screen and (max-width: 600px) {
     .navbar a {
         float: none;
