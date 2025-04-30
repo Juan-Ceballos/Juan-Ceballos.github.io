@@ -73,6 +73,10 @@ body {
     padding: 11px;
 }
 
+.iOS-links img:hover {
+    opacity: 0.8;
+}
+
 .iOS-project {
     width: 200px;
 }
