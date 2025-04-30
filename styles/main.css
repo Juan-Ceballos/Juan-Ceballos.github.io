@@ -73,10 +73,14 @@ body {
     padding: 11px;
 }
 
+.iOS-project {
+    width: 200px;
+}
+
 .web {
     display: flex;
     flex-direction: column;
-    width: 33%;
+    width: 50%;
     margin: 0 auto; 
 }
 
