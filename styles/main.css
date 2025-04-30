@@ -48,6 +48,10 @@ body {
     padding-bottom: 20px;
 }
 
+.navbar-ext a:hover {
+    color: dodgerblue;
+}
+
 .about {
     text-align: center;
 }
