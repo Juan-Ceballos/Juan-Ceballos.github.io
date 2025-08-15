@@ -98,6 +98,17 @@ body {
     padding: 11px; 
 }
 
+.web-project {
+    display: flex;
+    flex-direction: column;
+}
+
+.reverb-clone-logo {
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+}
+
 .skills {
     width: 33%;
     margin: 0 auto;
